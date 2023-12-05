@@ -7,7 +7,7 @@ Project Title: Visual Entities Empowered Zero-Shot Image-to-Text Generation Tran
 
 PPT Link: https://docs.google.com/presentation/d/1MY__ajJE0VolzEsR9XVgSn5Dtjhx1VWo4irGBco-WsY/edit#slide=id.g28910898772_1_38
 
-If Checkpoints are needed to run the inference, We can share it privately.
+If Checkpoints are needed to run the inference, We can share it privately. Please contact Raj for the same
 
 Scripts folder help to train the model and Validation on dataset using bash script.
 
