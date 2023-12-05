@@ -29,5 +29,3 @@ checkpoints folder contain the checkpoints of each indiviual experiments that we
 
 Evaluation folder is cloned from the standard MS COCO git repo, which widely used in Captioning task for the evaluation. 
 Please clone this git repo. (https://github.com/tylin/coco-caption)
-
-Latest Readme can be find at (https://github.com/RajGothi/GNR-650/tree/main/Project)
